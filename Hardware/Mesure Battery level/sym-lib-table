@@ -2,4 +2,5 @@
   (lib (name POWER_SUPPLY_NEW_without_so_may_modules-rescue)(type Legacy)(uri ${KIPRJMOD}/POWER_SUPPLY_NEW_without_so_may_modules-rescue.lib)(options "")(descr ""))
   (lib (name POWER_SUPPLY_NEW-rescue)(type Legacy)(uri ${KIPRJMOD}/POWER_SUPPLY_NEW-rescue.lib)(options "")(descr ""))
   (lib (name protection-and-fuel-gauge-rescue)(type Legacy)(uri "${KIPRJMOD}/protection and fuel gauge-rescue.lib")(options "")(descr ""))
+  (lib (name Measure-battery-level-rescue)(type Legacy)(uri "${KIPRJMOD}/Measure battery level-rescue.lib")(options "")(descr ""))
 )
