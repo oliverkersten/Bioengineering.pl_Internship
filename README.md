@@ -1,5 +1,5 @@
 # Graduation internship report attachments (HD-SEMG system ADS1298)
- THis folder includes: Hardware files, software files, python application, MATLAB and report, design was to build a protable and wireless HD-SEMG aquisition system for my graduation internship of my electrical engineering degree at Hogeschool Rotterdam, the internship took place at Bio-engineering.pl in Wroclaw.
+ THis folder includes: Hardware files, software files, python application, MATLAB and report, design was to build a protable and wireless HD-SEMG aquisition system for my graduation internship of my electrical engineering degree at Hogeschool Rotterdam, the internship took place at bio-engineering.pl Sp.z o (www.http://www.bioengineering.pl) in Wroclaw Poland.
 
  The hypothesis of the project was ”Can the AMAC performance level be improved in direct controlled (DC) myoelectric systems by exactly locating the location where the patient has the most amount of cover the agonist and antagonist of the residual limb during different hand gestures’’. The goal was to develop a device that can be used to confirm this hypothesis, the could be achieved by measuring the muscle potentials over the residual limb during different hand gestures (HD-SEMG recording)
 
